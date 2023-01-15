@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KevinPeregud
+- 👋 Hi, I’m KevinPeregud
 - 👀 I’m interested in Solidity, Blockchain, Web3, DeFi, NFTs, DAOs etc.
 - 🌱 I’m currently learning Solidity, Blockchain, Web3, DeFi, NFTs, DAOs etc.
 - 💞️ I’m looking to collaborate on Solidity, Dapps and Blockchain Development.
