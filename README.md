@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin form kpxlabs.com
-- 👀 I’m interested in Solidity, Blockchain, Web3, DeFi, NFTs, DAOs etc.
-- 🌱 I’m currently learning Solidity, Blockchain, Web3, DeFi, NFTs, DAOs etc.
-- 💞️ I’m looking to collaborate on Solidity, Dapps and Blockchain Development.
+- 👀 I’m interested in Blockchain, Web3, DeFi, NFTs, DAOs etc.
+- 🌱 I’m currently learning Solidity, JavaScript, Blockchain, Web3, DeFi, NFTs, DAOs etc.
+- 💞️ I’m looking to collaborate on Solidity, Dapps, NFTs, DAOs, Web3 and Blockchain Development.
 - 📫 How to reach me kpxlabs@gmail.com
 
 <!---
